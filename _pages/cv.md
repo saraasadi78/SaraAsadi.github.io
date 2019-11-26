@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelors in Software Engineering, University of Science and Culture, Tehran, 2010
+* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 -2017: Developer
+  * Hamfekran Co.
+  * Project: Funeral Management Software
+  * Duties included: Backend and frontend coding
+  * Technologies: .NET Framework 2.0/3.0, ASP.NET, C#, MyGeneration, IIS, DNN, Silverlight, WPF, Winforms, WCF, XML, jQuery ,java script,   Web Services, SQL Server 2008, MS Visio, TFS and Agile/scrum devel- opment methodology
 
-* Fall 2015: Research Assistant
+* Fall 2015: Full stack .Net developer
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project: Automation of Vehicle Technical Inspection (VTI)
+  * Tools: ANRP Plate Recognition, C++, C#, IIS, MVC, Entity framework, NET Framework 3.5/4, ASP.NET, WinForms, WCF, ASMX Web Services, JSON, jQuery, java script.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technologies
+  * .NET Framework
+  * ASP.NET (MVC, Web API, Web Forms) WCF, ADO.NET, Gentle, AJAX, jQuery Silverlight, Crystal Reports,
+  * My SQL, MS SQL(SSRS),
+  * WPF, Windows Forms
+  * LINQ, Web services
+  * Microsof􏰁 IIS
+* Languages 
+  * C#, TSQL, C++, HTML, JavaScript, CSS, XML, JSON, Visual Basic .NET, Python
+* Unit testing
+  * Nunit
+* Methodologies 
+  * Agile development, Scrum
+* Tools
+  * TFS, Git, Microsof􏰁 Visual Studio
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Advanced Programming C++, Oper- ation System, Logic Circuits, 2008 – 2010.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Handling the customer requests, problems and troubleshoot them abd development of ticketing system, to organize user’s issues.

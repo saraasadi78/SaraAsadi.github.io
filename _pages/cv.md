@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Bachelors in Software Engineering, University of Science and Culture, Tehran, 2010
-* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 2005
+* Bachelors in Software Engineering, University of Science and Culture, Tehran, 2010.
+* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 2005.
 
 Work experience
 ======
-* 2014 -2017: Developer
+* 2014 -2017: Full stack .Net Developer
   * Hamfekran Co.
   * Project: Funeral Management Software
   * Duties included: Backend and frontend coding
-  * Technologies: .NET Framework 2.0/3.0, ASP.NET, C#, MyGeneration, IIS, DNN, Silverlight, WPF, Winforms, WCF, XML, jQuery ,java script,   Web Services, SQL Server 2008, MS Visio, TFS and Agile/scrum devel- opment methodology
+  * Technologies: .NET Framework 2.0/3.0, ASP.NET, C#, MyGeneration, IIS, DNN, Silverlight, WPF, Winforms, WCF, XML, jQuery ,java script,   Web Services, SQL Server 2008, MS Visio, TFS and Agile/scrum devel- opment methodology.
 
-* Fall 2015: Full stack .Net developer
-  * Github University
+* 2014 - 2015: Developer
+  * Hamfekran Co.
   * Project: Automation of Vehicle Technical Inspection (VTI)
   * Tools: ANRP Plate Recognition, C++, C#, IIS, MVC, Entity framework, NET Framework 3.5/4, ASP.NET, WinForms, WCF, ASMX Web Services, JSON, jQuery, java script.
   

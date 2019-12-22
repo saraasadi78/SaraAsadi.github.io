@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Masoud Asadzadeh"
-  avatar           : "/files/masoud-asadzadeh.png"
+  avatar           : "masoud_asadzadeh.png"
   bio              : "Full-stack .Net developer"
   location         :  
   employer         :

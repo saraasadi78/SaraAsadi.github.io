@@ -1,19 +1,16 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/
+    url: /projects/   
 
-  - title: "Education"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Work Experience"
+    url: /workexp/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Education"
+    url: /education/ 
+
+  - title: "Life"
+    url: /life/
     
   - title: "CV"
     url: /cv/

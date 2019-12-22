@@ -11,7 +11,7 @@ title                    : "Masoud Asadzadeh"
 title_separator          : "-"
 name                     : &name "Masoud Asadzadeh"
 description              : &description ".Net full-stack developer"
-url                      : https://masoudasadzadeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MasoudAsadzade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/MasoudAsadzade"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman

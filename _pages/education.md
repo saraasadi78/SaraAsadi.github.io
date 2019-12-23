@@ -1,8 +1,8 @@
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
 ---
-layout: page
-permalink: /education
-title: Education
-======
 
 * Bachelors in Software Engineering, University of Science and Culture, Tehran, 2010.
 

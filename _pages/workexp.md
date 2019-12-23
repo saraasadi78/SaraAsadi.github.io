@@ -1,9 +1,10 @@
 ---
-layout: page
-permalink: /workexp
-title: Work Experience
+layout: archive
+title: "Work Experience"
+permalink: /workexp/
+author_profile: true
+---
 
-======
 
 * Software Developer
 	* Company Name: Hamfekran Information Technology Group 

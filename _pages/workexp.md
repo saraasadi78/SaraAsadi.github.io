@@ -5,6 +5,10 @@ permalink: /workexp/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
+---
 
 * Software Developer
 	* Company Name: Hamfekran Information Technology Group 
@@ -14,15 +18,17 @@ author_profile: true
 
 
 
-======
+{% include base_path %}
+
+
+
 ---
-title : "Technical Skills"
 
 * Languages 
 	* C#, TSQL, C++, HTML, JavaScript, CSS, XML, JSON, Visual Basic .NET, Python
   
 * Web Frameworks  
-	*ASP.NET MVC, ASP.NET Web API ASP.NET Web Forms
+	* ASP.NET MVC, ASP.NET Web API ASP.NET Web Forms
   
   
 * Desktop Frameworks
@@ -40,6 +46,14 @@ title : "Technical Skills"
 	* Entity Framework, My Generation, ADO.NET, LinqToSQs
 	
 		
+* Reporting
+	* Microsof􏰀 Reporting Service, MS SQL Reporting Service, Crystal Reports
+	
 
+* Development Methodologies
+	* Agile development, Scrum
+	
+* DataBases
+	* MS SQL Server
   
 

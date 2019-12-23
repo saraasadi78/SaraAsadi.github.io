@@ -23,37 +23,25 @@ author_profile: true
 
 
 ---
+- Technical Skills
+---
 
-* Languages 
-	* C#, TSQL, C++, HTML, JavaScript, CSS, XML, JSON, Visual Basic .NET, Python
+* Languages:  C#, TSQL, C++, HTML, JavaScript, CSS, XML, JSON, Visual Basic .NET, Python
   
-* Web Frameworks  
-	* ASP.NET MVC, ASP.NET Web API ASP.NET Web Forms
+* Web Frameworks : ASP.NET MVC, ASP.NET Web API ASP.NET Web Forms
   
-  
-* Desktop Frameworks
- 	* Windows Forms, WPF
-	
+* Desktop Frameworks:  Windows Forms, WPF
 	 
-* Communication Frameworks
-	* ASP.NET WebAPI, WCF, ASMX web Service
+* Communication Frameworks:  ASP.NET WebAPI, WCF, ASMX web Service
 	
+* Server Technologies:  Microsof􏰀t IIS, Windows Server
 	
-* Server Technologies
-	* Microsof􏰀 IIS, Windows Server
+* ORM:  Entity Framework, My Generation, ADO.NET, LinqToSQs
 	
-* ORM
-	* Entity Framework, My Generation, ADO.NET, LinqToSQs
+* Reporting:  Microsof􏰀t Reporting Service, MS SQL Reporting Service, Crystal Reports
 	
-		
-* Reporting
-	* Microsof􏰀 Reporting Service, MS SQL Reporting Service, Crystal Reports
+* Development Methodologies:  Agile development, Scrum
 	
-
-* Development Methodologies
-	* Agile development, Scrum
-	
-* DataBases
-	* MS SQL Server
+* DataBases: MS SQL Server
   
 

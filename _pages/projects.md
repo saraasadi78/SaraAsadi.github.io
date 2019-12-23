@@ -15,5 +15,5 @@ author_profile: true
 * Facial Navigator Speaker: Developed a prototype for iden- tifying face and comparing to already recognized faces us- ing EmguCV (.Net wrapper for OpenCV computer vision library)
 * Distributed Desktop Automation System of Trans- portation
 * Flight Information Display App
-* WCF service front-ended by USSD: Developed a service that issues real-time permit to control the entrance of vehi- cle’s into tra􏰅􏰁􏰂c zones.
+* WCF service front-ended by USSD: Developed a service that issues real-time permit to control the entrance of vehicle’s into traffic zones.
 * Desktop application for Traffic Control

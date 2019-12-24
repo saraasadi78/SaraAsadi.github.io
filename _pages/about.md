@@ -23,3 +23,4 @@ BTW, I always look for new opportunities to involve in interesting projects!
 Follow me on linkedin or feel free to contact me via email.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="masoudasadzadeh"><a class="LI-simple-link" href='https://dk.linkedin.com/in/masoudasadzadeh?trk=profile-badge'>Seyed Masoud Asadzadeh</a></div>

@@ -8,3 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+---
+
+    You may see my CV for additional information: [Last Updated CV](https://masoudasadzade.github.io/files/masoud_cv2020.pdf)

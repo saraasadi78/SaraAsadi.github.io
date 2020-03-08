@@ -21,5 +21,3 @@ I have encountered numerous experiences that have intensified my career goals.
 BTW, I always look for new opportunities to involve in interesting projects! 
 
 Follow me on linkedin or feel free to contact me via email.
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

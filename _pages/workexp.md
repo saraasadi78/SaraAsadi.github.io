@@ -11,10 +11,8 @@ author_profile: true
 ---
 
 * Software Developer
-	* Company Name: Hamfekran Information Technology Group 
-	* Dates Employed: 2012 – 2017
-	* Employment Duration5 yrs
-	* LocationTehran Province, Iran
+	* Company Name: [Hamfekran Information Technology Group](http://www.hamfekrangroup.ir) 
+	* Location: Tehran, Iran
 
 
 

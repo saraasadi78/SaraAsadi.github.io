@@ -5,15 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+* AutoTaxi (ETAXI)
+* E-Commerce Application (Epardis)
+* UserMonitoring and Ticketing
 * Automation of Vehicle Technical Inspection (VTI)
 * Funeral Management Software
-* AutoTaxi (ETAXI)
-* UserMonitoring and Ticketing
-* E-Commerce Application (Epardis)
-* Warehouse and payroll automation for car- pet services company
-* Payment Provider: Worked with several POS terminals SDK for developing payment Providers.
-* Facial Navigator Speaker: Developed a prototype for iden- tifying face and comparing to already recognized faces us- ing EmguCV (.Net wrapper for OpenCV computer vision library)
-* Distributed Desktop Automation System of Trans- portation
+* Supply Chain Automation - Carpet, Textile, and Home Furnishing
+* Open Source Drone Software
+* Automation System of Transportation
 * Flight Information Display App
-* WCF service front-ended by USSD: Developed a service that issues real-time permit to control the entrance of vehicle’s into traffic zones.
-* Desktop application for Traffic Control
+* WCF Service front-ended by USSD
+* Payment Provider (Work with POS terminals SDK for developing payment providers)
+* Facial Navigator Speaker ( Develop a voice-face recognition prototype for navigation purpose using EmguCV (.Net wrapper for C++ OpenCV computer vision library ).
+* Desktop App for Traffic Control
+* 3D House

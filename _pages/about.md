@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there -- thanks for stopping by! I am SeyedMasoud, but almost everybody calls me "Masoud", (a typical Persian name!). 
+Hi there -- thanks for stopping by! 
+
+I am SeyedMasoud, but almost everybody calls me "Masoud", (a typical Persian name!). 
 Currently, I live in Switzerland with my wife [Sepideh](https://www.inf.usi.ch/phd/asadi/).  
 
 Hmmmm.... I enjoy using Object Oriented Programming to solve real-world problems. 
@@ -19,5 +21,5 @@ The list of projects I have contributed to are [here](https://masoudasadzade.git
 
 BTW, I always look for new opportunities to involve in interesting projects and I am flexible for relocation! 
 
-You may follow me on [Linkedin](https://www.linkedin.com/in/masoudasadzadeh/) or free to drop me a message in Skype <masoud.asadzde> or Gmail <masoud.asadzade@gmail.com>
+You may follow me on [Linkedin](https://www.linkedin.com/in/masoudasadzadeh/) or feel free to drop me a message.
 

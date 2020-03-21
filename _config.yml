@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Masoud Asadzadeh"
 title_separator          : "-"
 name                     : &name "Masoud Asadzadeh"
-description              : &description ".Net full-stack developer"
+description              : &description ".NET C# Developer"
 url                      : https://MasoudAsadzade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/MasoudAsadzade"
@@ -88,6 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : masoud.asadzade@gmail.com
+  skype            : masoud.asadzde
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  skype            : masoud.asadzde
 
 # Reading Files
 include:

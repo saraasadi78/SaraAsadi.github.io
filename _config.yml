@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Masoud Asadzadeh"
+  name             : "SeyedMasoud Asadzadeh"
   avatar           : "masoud_asadzadeh.png"
-  bio              : "Full-stack .Net developer"
+  bio              : "C# .NET Developer"
   location         :  
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : masoud.asadzade@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  skype            : masoud.asadzde
 
 # Reading Files
 include:

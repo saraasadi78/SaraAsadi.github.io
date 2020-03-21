@@ -22,5 +22,5 @@ The list of projects I have contributed to are [here](https://masoudasadzade.git
 
 BTW, I always look for new opportunities to involve in interesting projects! 
 
-You may follow me on [Linkedin](https://www.linkedin.com/in/masoudasadzadeh/) or feel free to contact me via [Gmail](masoud.asadzade@gmail.com)
+You may follow me on [Linkedin](https://www.linkedin.com/in/masoudasadzadeh/) or feel free to contact me via Gmail: masoud.asadzade@gmail.com
 

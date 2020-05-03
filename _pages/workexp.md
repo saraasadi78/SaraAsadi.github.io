@@ -32,11 +32,11 @@ author_profile: true
 	 
 * Communication Frameworks:  ASP.NET WebAPI, WCF, ASMX web Service
 	
-* Server Technologies:  Microsof􏰀t IIS, Windows Server
+* Server Technologies:  Microsoft IIS, Windows Server
 	
 * ORM:  Entity Framework, My Generation, ADO.NET, LinqToSQs
 	
-* Reporting:  Microsof􏰀t Reporting Service, MS SQL Reporting Service, Crystal Reports
+* Reporting:  Microsoft Reporting Service, MS SQL Reporting Service, Crystal Reports
 	
 * Development Methodologies:  Agile development, Scrum
 	

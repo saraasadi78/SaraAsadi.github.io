@@ -6,14 +6,18 @@ author_profile: true
 ---
 
 
+Countrywide  business applications and corporate IT type application:
 * AutoTaxi (ETAXI)
 * E-Commerce Application (Epardis)
-* UserMonitoring and Ticketing
+*  E-Government, User Monitoring, and Ticketing
 * Automation of Vehicle Technical Inspection (VTI)
-* Funeral Management Software
+* Funeral Service Management
 * Supply Chain Automation - Carpet, Textile, and Home Furnishing
 * Open Source Drone Software
 * Automation System of Transportation
+
+
+Some more small projects:
 * Flight Information Display App
 * WCF Service front-ended by USSD
 * Payment Provider (Work with POS terminals SDK for developing payment providers)

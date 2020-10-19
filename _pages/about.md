@@ -15,7 +15,7 @@ Currently, I live in Switzerland with my wife [Sepideh](https://www.inf.usi.ch/p
 
 Ummm.... I enjoy using Object Oriented Programming to solve real-world problems. 
 
-I have 5+ years of commercial software development experience in full System Development Life Cycle with C# in countrywide Advanced Business applications. I am experienced in using .Net for corporate IT type applications, in particular, internal-facing ones. I have a demonstrated history of working experiences in distributed environments, Service Oriented, Intranet Portals, Client-Server, Web-Based applications using Microsoft Technologies for the most part. 
+I have a demonstrated history of working in industry. I worked on commercial, countrywide advanced business applications and corporate IT type applications. Hands on technical team responsible for developing multiple full stack applications in a SCRUM team. I have experience in distributed environments, Service Oriented, Intranet Portals, Client-Server, Web-Based applications using Microsoft Technologies, etc. 
 
 The list of projects I have contributed to are [here](https://masoudasadzade.github.io/projects/).
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there -- thanks for stopping by! 
 
-I am SeyedMasoud, but almost everybody calls me "Masoud", (a typical Persian name!). 
+My first name is SeyedMasoud, but almost everybody calls me "Masoud", (a typical Persian name!). 
 Currently, I live in Switzerland with my wife [Sepideh](https://www.inf.usi.ch/phd/asadi/).  
 
 Ummm.... I enjoy using Object Oriented Programming to solve real-world problems. 

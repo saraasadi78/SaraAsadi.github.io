@@ -11,9 +11,9 @@ author_profile: true
 
 ---
 
-* Bachelors in Software Engineering, University of Science and Culture, Tehran, 2010.
+* Bachelors in Software Engineering, Ferdowsi University, Mashhad, Iran, 9.2018 -- 2.2023.
 
-* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 2005.
+* Diploma in Mathematics, National Organization for Development of Exceptional Talents (NODET), 9.2013 -- 12.2017.
   
 
 

@@ -12,4 +12,4 @@ redirect_from:
 
 ---
 
-You may see my CV for additional information: [Last Updated CV](https://masoudasadzade.github.io/files/cv_masoud.pdf)
+You may see my CV for additional information: [Last Updated CV](https://SaraAsadi.github.io/files/sara-asad-cv.pdf)

@@ -11,8 +11,7 @@ author_profile: true
 ---
 
 * Software Developer
-	* Company Name: [Hamfekran Information Technology Group](http://www.hamfekrangroup.ir) 
-	* Location: Tehran, Iran
+	* TBD
 
 
 
